@@ -40,7 +40,6 @@ export const Notifications: React.FC<Props> = ({
       )}
       hidden={isHidden}
     >
-      {/* eslint-disable-next-line jsx-a11y/control-has-associated-label */}
       <button
         type="button"
         className="delete"

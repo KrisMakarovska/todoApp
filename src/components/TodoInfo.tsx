@@ -74,7 +74,6 @@ export const TodoInfo: React.FC<Props> = ({
           <input
             type="text"
             className="todo__title-field"
-            // eslint-disable-next-line jsx-a11y/no-autofocus
             autoFocus
             value={newTitle}
             onChange={handleTitleChange}
