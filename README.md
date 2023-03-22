@@ -7,4 +7,4 @@ Technologies:
 - HTML, 
 - CSS,  
 
-[DEMO LINK](https://<KrisMakarovska.github.io/react_todo-app-with-api/)
+[DEMO LINK](https://krismakarovska.github.io/todoApp/)
