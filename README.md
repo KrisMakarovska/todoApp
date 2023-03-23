@@ -23,7 +23,7 @@ So:
  - any todo by clicking cross button in its right corner;    
  - delete todo title and empty todo will be deleted automatically;    
 
-:small_orange_diamond: change title of you todo by making double click on it;    
+:small_orange_diamond: change title of your todo by making double click on it;    
 :small_orange_diamond: click ‘toggle all button’ and make all of you todos completed or active;    
 
 :small_orange_diamond: errow massages will notify you in case you have any troubles with server response;        
