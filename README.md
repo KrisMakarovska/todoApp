@@ -14,15 +14,9 @@ Technologies:
 
 
 So:
- click on input field and add new todo;
- click on status button (active or complete) and sort your todos according to this status;
-click ob checkbox and make your todo completed ;
- delete todos in 3 ways:
-   	- all completed todos by clicking on ‘delete completed’ ;
-   	- any todo by clicking cross button in the right corner of it;
-   	- delete todo title and empty todo will be deleted automatically;
-change title of you todo by double click on it;
-click ‘toggle all button’ and make all of you todos completed or active;
+:bowtie:white_check_mark: Это уже сделано    
+:negative_squared_cross_mark: Я не буду это делать    
+:black_square_button: делать или не делать, вот в чем вопрос?    
 
 
 
